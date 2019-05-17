@@ -3,7 +3,7 @@
 #### Install modules:
 ```
 npm install ganache-cli // blockchain simulator
-npm install web3 // js library interacting with blockchain via RPC
+npm install web3@1.0.0-beta.37 // js library interacting with blockchain via RPC
 npm install solc // compiles to bytecode
 ```
 
